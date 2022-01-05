@@ -34,12 +34,12 @@ body {
 
 @font-face {
   font-family: 'Lexend Deca';
-  src: local('Lexend Deca'), url('../fontes/LexendDeca-Regular.ttf ');
+  src: local('Lexend Deca'), url('../fonts/LexendDeca-Regular.ttf ');
 }
 
 @font-face {
   font-family: 'Inter Medium';
-  src: local(Inter), url('../fontes/Inter-Medium.ttf');
+  src: local(Inter), url('../fonts/Inter-Medium.ttf');
 }
 
 .container {
